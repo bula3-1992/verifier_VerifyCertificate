@@ -1,0 +1,17 @@
+﻿Сборка начата 12.10.2015 10:35:08.
+     1>Проект "c:\Users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\verifier_VerifyCertificate\verifier_VerifyCertificate.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VERIFIER_VERIFYCERTIFICATE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt verifier_VerifyCertificate.cpp
+         verifier_VerifyCertificate.cpp
+     1>verifier_VerifyCertificate.cpp(13): warning C4101: hSystemStore: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\Release\verifier_VerifyCertificate.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\Release\verifier_VerifyCertificate.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\Release\verifier_VerifyCertificate.lib" /MACHINE:X86 /SAFESEH /DLL Release\verifier_VerifyCertificate.obj
+            Создается библиотека c:\users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\Release\verifier_VerifyCertificate.lib и объект c:\users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\Release\verifier_VerifyCertificate.exp
+         Создание кода
+         Создание кода завершено
+         verifier_VerifyCertificate.vcxproj -> c:\users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\Release\verifier_VerifyCertificate.dll
+     1>Сборка проекта "c:\Users\003-0823\documents\visual studio 2013\Projects\verifier_VerifyCertificate\verifier_VerifyCertificate\verifier_VerifyCertificate.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.23
